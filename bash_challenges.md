@@ -8,7 +8,7 @@
 
 ---------
 
-## Challenges 1
+## 1. System Challenges 
 
 ### Challenge 1.1 - Input to File
 
@@ -30,7 +30,7 @@ Bonus: Include a new file in the Backup Folder displaying the date that the back
 
 --------
 
-## Challenges 2
+## 2. Attack Simulation Challenges
 
 ### Challenge 2.1 CPU Resource Flood
 
