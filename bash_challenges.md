@@ -1,8 +1,8 @@
 # Bash/Linux Scripting Challenges 
 
 ## Table of Contents
-- (1 System Challenges)[#Challenges-1]
-- 2 Attack Simulation Challenges
+- [1 System Challenges](#Challenges-1)
+- [2 Attack Simulation](#Challenges-2)
 
 ---------
 
@@ -28,7 +28,7 @@ Bonus: Include a new file in the Backup Folder displaying the date that the back
 
 --------
 
-## ADVANCED CHALLENGES
+## Challenges 2
 
 ## Challenge 2.1 CPU Resource Flood
 
