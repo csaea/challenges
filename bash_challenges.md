@@ -9,7 +9,6 @@ Objective:
 
 Commands you might need to use: `cp`, `mkdir`, `ls`, `echo` 
 
-```bash
 ex.
-I want to take all the files from the absolute path '/home/kali/CourseFiles/IntroCybersecurity' by copying their contents into a new directory located in '/home/kali/Desktop' 
-```
+I want to take all the files from the absolute path '/home/kali/CourseFiles/IntroCybersecurity' by copying their contents into a new directory located in '/home/kali/Desktop'. 
+
