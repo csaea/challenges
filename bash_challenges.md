@@ -13,7 +13,7 @@
 ### Challenge 1.1 - Tree to File
 
 Objective: 
-- Create an executable script that displays the `tree` structure of a file system, saved in a text file. D display a message when the script is complete and open the new file.
+- Create an executable script that outputs the `tree` structure of a directory and its subdirectories into a new text file. Display a message when the script is complete and automatically open the new file.
 
 Commands/Concepts: `tree`, `echo`, `>`, `open`
 
@@ -24,9 +24,7 @@ Objective:
 - List all the files in the backup directory in terminal. 
 - Print a message that the backup is complete, along with the date. 
 
-Commands/Concepts: `cp`, `mkdir`, `ls`, `echo` 
-
-Bonus: Include a new file in the Backup Folder displaying the date that the backup occured. 
+Commands/Concepts: `cp`, `mkdir`, `ls`, `echo`, `date` 
 
 --------
 
@@ -39,7 +37,7 @@ Objective: Use resource exhaustion to simulate 1) a DoS attack and 2) a counterm
 0. In one terminal window, run `top` and take note of the total tasks running.
 1. In a second terminal, create a script that iterates over a `dd` command 1000 times to overload the system.
 2. Run script.
-3. Monitor CPU usage with `top` or `htop` to observe the resource consumption. 
+3. Monitor CPU usage with `top` or `htop` to observe the resource consumption. (Warning! Your system may crash).
 4. Write a countermeasure script that limits the amount of processes that can run.
 5. Try running the first script again, and see if your second script is successful. 
 
