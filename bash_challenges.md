@@ -1,7 +1,7 @@
 # Bash/Linux Scripting Challenges 
 
 ## Table of Contents
-- [1 System Challenges](#Challenge 1.1 - Input to File)
+- (1 System Challenges)[#Challenge 1.1 - Input to File]
 - 2 Attack Simulation Challenges
 
 ## Challenge 1.1 - Input to File
