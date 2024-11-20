@@ -34,13 +34,13 @@ Bonus: Include a new file in the Backup Folder displaying the date that the back
 
 Objective: Use resource exhaustion to simulate a DoS attack.
 
-0. In one terminal window, run `htop` and take note of the record CPU usage.
+0. In one terminal window, run `top` and take note of the total tasks running.
 1. In a second terminal, create a script that uses `dd` to overload the system.
 2. Run script.
-3. Monitor CPU usage with top or htop to observe the resource consumption. 
+3. Monitor CPU usage with `top` or `htop` to observe the resource consumption. 
 4. Write a countermeasure script that limits the amount of processes that can run. 
 
-Commands/Concepts: `dd`, `htop`, `ulimit`.
+Commands/Concepts: `dd`, `top` or `htop`, `ulimit`.
 
 ### Challenge 2.2: File Permissions
 
