@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [1 System Challenges](#1)
-- [2 Attack Simulation](#2)
+- [2 Attack Simulation](#2.-Attack-Simulation-Challenges)
 
 ---------
 
