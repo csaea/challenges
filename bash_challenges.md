@@ -8,14 +8,14 @@
 
 ## Challenges 1
 
-## Challenge 1.1 - Input to File
+### Challenge 1.1 - Input to File
 
 Objective: 
 - Create an executable script that accepts one line of user input and redirects it to a txt file.
 
 Commands/Concepts: `read`, `echo`, `>`
 
-## Challenge 1.2 - Backup Script  
+### Challenge 1.2 - Backup Script  
 
 Objective: 
 - Create a backup script that copies all contents from one directory to a backup folder. 
@@ -30,7 +30,7 @@ Bonus: Include a new file in the Backup Folder displaying the date that the back
 
 ## Challenges 2
 
-## Challenge 2.1 CPU Resource Flood
+### Challenge 2.1 CPU Resource Flood
 
 Objective: Use resource exhaustion to simulate a DoS attack.
 
@@ -42,7 +42,7 @@ Objective: Use resource exhaustion to simulate a DoS attack.
 
 Commands/Concepts: `dd`, `htop`, `ulimit`.
 
-## Challenge 2.2: File Permissions
+### Challenge 2.2: File Permissions
 
 Objective: Demonstrate how malware might alter file permissions to gain unauthorized access.
 
@@ -56,7 +56,7 @@ Part II.
 
 Commands/Concepts: `chmod`, `touch`, `ls`, `chmod 777`, `find`.
 
-## Challenge 2.3: Malware Executing System Commands (Privilege Escalation)
+### Challenge 2.3: Malware Executing System Commands (Privilege Escalation)
 
 Objective: Learn how attackers use privilege escalation through malicious scripts.
 
@@ -69,7 +69,7 @@ Write a detection script that identifies and alerts the user to newly created ex
 
 Commands/Concepts: chmod, ls, cat, ps, find.
 
-## Challenge 2.4: The Hidden Alias
+### Challenge 2.4: The Hidden Alias
 
 Objective: Learn how attackers can hide malicious commands in aliases or environment variables.
 
@@ -80,7 +80,7 @@ Objective: Learn how attackers can hide malicious commands in aliases or environ
 
 Commands/Concepts: alias, echo, cat, grep.
 
-## Challenge 2.5: Propogation 
+### Challenge 2.5: Propogation 
 
 Objective: Propagate via USB drives.
 
@@ -92,7 +92,7 @@ Objective: Propagate via USB drives.
 Commands/Concepts: `cp`, `ls`, `touch`, `chmod`, `find`.
 
 
-## Challenge 2.6: Modify System Files
+### Challenge 2.6: Modify System Files
 
 Objective: Show how an attacker might inject malicious code into critical system files.
 
