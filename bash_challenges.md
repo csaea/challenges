@@ -10,12 +10,12 @@
 
 ## System Challenges 
 
-### Challenge 1.1 - Input to File
+### Challenge 1.1 - Tree to File
 
 Objective: 
-- Create an executable script that accepts one line of user input and redirects it to a txt file.
+- Create an executable script that displays the `tree` structure of a file system, saved in a text file. D display a message when the script is complete and open the new file.
 
-Commands/Concepts: `read`, `echo`, `>`
+Commands/Concepts: `tree`, `echo`, `>`, `open`
 
 ### Challenge 1.2 - Backup Script  
 
