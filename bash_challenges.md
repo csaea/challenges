@@ -1,5 +1,7 @@
 # Bash/Linux Scripting Challenges 
 
+!IMPORTANT: RUN THESE CHALLENGES IN A VIRUTAL MACHINE!
+
 ## Table of Contents
 - [1 System Challenges](#Challenges-1)
 - [2 Attack Simulation](#Challenges-2)
@@ -32,13 +34,14 @@ Bonus: Include a new file in the Backup Folder displaying the date that the back
 
 ### Challenge 2.1 CPU Resource Flood
 
-Objective: Use resource exhaustion to simulate a DoS attack.
+Objective: Use resource exhaustion to simulate 1) a DoS attack and 2) a countermeasure.
 
 0. In one terminal window, run `top` and take note of the total tasks running.
-1. In a second terminal, create a script that uses `dd` to overload the system.
+1. In a second terminal, create a script that iterates over a `dd` command 1000 times to overload the system.
 2. Run script.
 3. Monitor CPU usage with `top` or `htop` to observe the resource consumption. 
-4. Write a countermeasure script that limits the amount of processes that can run. 
+4. Write a countermeasure script that limits the amount of processes that can run.
+5. Try running the first script again, and see if your second script is successful. 
 
 Commands/Concepts: `dd`, `top` or `htop`, `ulimit`.
 
