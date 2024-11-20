@@ -3,8 +3,8 @@
 !IMPORTANT: RUN THESE CHALLENGES IN A VIRUTAL MACHINE!
 
 ## Table of Contents
-- [1 System Challenges](#Challenges-1)
-- [2 Attack Simulation](#Challenges-2)
+- [1 System Challenges](#1.-System-Challenges)
+- [2 Attack Simulation](#2.-Attack-Simulation-Challenges)
 
 ---------
 
