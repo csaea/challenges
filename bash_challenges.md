@@ -3,12 +3,12 @@
 !IMPORTANT: RUN THESE CHALLENGES IN A VIRUTAL MACHINE!
 
 ## Table of Contents
-- [1 System Challenges](#1)
-- [2 Attack Simulation](#2.-Attack-Simulation-Challenges)
+- [1 System Challenges](#System-Challenges)
+- [2 Attack Simulation](#Attack-Simulation-Challenges)
 
 ---------
 
-## 1. System Challenges 
+## System Challenges 
 
 ### Challenge 1.1 - Input to File
 
@@ -30,7 +30,7 @@ Bonus: Include a new file in the Backup Folder displaying the date that the back
 
 --------
 
-## 2. Attack Simulation Challenges
+## Attack Simulation Challenges
 
 ### Challenge 2.1 CPU Resource Flood
 
