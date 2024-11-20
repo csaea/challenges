@@ -1,14 +1,19 @@
 # Bash/Linux Scripting Challenges 
 
-## Challenge 1 - Backup Script  
+## Challenge 1 - Input to File
 
 Objective: 
-- Create a backup script that copies all files from one directory to a backup folder. 
+- Create an executable script that accepts one line of user input and redirects it to a txt file.
+
+Key Commands: `read`, `echo`, `>`
+
+## Challenge 2 - Backup Script  
+
+Objective: 
+- Create a backup script that copies all contents from one directory to a backup folder. 
 - List all the files in the backup directory in terminal. 
-- Print a message that the backup is complete. 
+- Print a message that the backup is complete, along with the date. 
 
-Commands you might need to use: `cp`, `mkdir`, `ls`, `echo` 
+Key Commands: `cp`, `mkdir`, `ls`, `echo` 
 
-ex.
-I want to take all the files from the absolute path '/home/kali/CourseFiles/IntroCybersecurity' by copying their contents into a new directory located at '/home/kali/Desktop/MyBackups'. 
-
+Bonus: Include a new file in the Backup Folder displaying the date that the backup occured. 
