@@ -1,6 +1,6 @@
 # Bash/Linux Scripting Challenges 
 
-> **IMPORTANT**: RUN THESE CHALLENGES IN A VIRTUAL MACHINE!
+> **IMPORTANT**: RUN THESE CHALLENGES IN A VIRTUAL MACHINE! Otherwise you may ruin your own system. 
 
 ## Table of Contents
 - [System Challenges](#System-Challenges)
