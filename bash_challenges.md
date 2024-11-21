@@ -13,22 +13,71 @@
 ### Challenge 1.1 - Tree to File
 
 **Objectives**:  
-- Create an executable script that outputs the `tree` structure of a directory and its subdirectories into a new text file. 
-- Display a message when the script is complete and automatically open the new file.
+- Create an executable script that outputs the `tree` structure of a directory (and its subdirectories) into a new text file. 
+- Display a message when the script is complete
+- Automatically open the new file.
 
-**Commands/Concepts**: `tree`, `echo`, `>`, `open`
+**Commands/Concepts**: `tree`, `echo`, `>`, `open`, `-r`
 
 ---
 
 ### Challenge 1.2 - Backup Script  
 
 **Objectives**:  
-- Create a backup script that copies all contents from one directory to a backup folder. 
+- Create a backup script that copies all contents from one directory to a new, backup directory. 
 - List all the files in the backup directory in the terminal. 
 - Print a message that the backup is complete, along with the date.
 
 **Commands/Concepts**: `cp`, `mkdir`, `ls`, `echo`, `date` 
 
+Here are a few beginner-friendly Bash/Linux scripting challenges:
+
+---
+
+### Challenge 1.3 - Sort and Save
+
+**Objectives**:  
+- Create a script that sorts the contents of a text file alphabetically and saves the result to a new file.
+- The script should prompt the user for the file name to sort.
+- Print a message indicating that the sorting is complete.
+
+**Commands/Concepts**: `sort`, `echo`, `read`, `>`  
+
+---
+
+### Challenge 1.4 - Rename Files
+
+**Objectives**:  
+- Create a script that renames all `.txt` files in a directory by adding a prefix (e.g., "backup_", or "october_") to each file's name.
+- Display a message with the name of each renamed file.
+
+**Commands/Concepts**: `mv`, `for`, `echo`, `basename`, `find`
+
+---
+
+### Challenge 1.5 - Directory Cleaner
+
+**Objectives**:  
+- Write a script that deletes all files older than 30 days in a specified directory.
+- Add a safety check to ask for confirmation before deletion occurs.
+- Print the number of files deleted.
+
+**Commands/Concepts**: `find`, `rm`, `-mtime`, `-exec`, `echo`, `read`
+
+---
+
+### Challenge 1.6 - Disk Space Checker
+
+**Objectives**:  
+- Write a script that checks the available disk space on the system.
+- Print a warning message if the available space is below a certain threshold (e.g., 5 GB).
+- Print the current disk usage to the terminal.
+
+**Commands/Concepts**: `df`, `grep`, `awk`, `echo`, `if`
+
+---
+---
+---
 ---
 
 ## Attack Simulation Challenges
