@@ -33,7 +33,7 @@
 
 ---
 
-## Challenge Type 2
+## Pseudocode Challenges
 
 ### Challenge 2.X - [Challenge Title]
 
@@ -48,10 +48,4 @@
 
 **Commands/Concepts**: `[command 1]`, `[command 2]`, `[command 3]`, `[concept 1]`, `[concept 2]`
 
--
-
-**Commands/Concepts**: `[command 1]`, `[command 2]`, `[command 3]`, `[concept 1]`, `[concept 2]`
-
----
-
-Feel free to replace the placeholders with actual content as you expand the challenge list!
+## Flowchart Challenges
