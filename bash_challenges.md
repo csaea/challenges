@@ -1,7 +1,6 @@
 # Bash/Linux Scripting Challenges 
 
-> **IMPORTANT**: Run these challenges in our <a href="https://example.com" target="_blank">Click here</a>
-! Otherwise you may ruin your own system.
+> **IMPORTANT**: Run these challenges in a virtual machine!
 
 ## Table of Contents
 - [System Challenges](#System-Challenges)
