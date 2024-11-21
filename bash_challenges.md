@@ -17,7 +17,7 @@
 - Display a message when the script is complete
 - Automatically open the new file.
 
-**Commands/Concepts**: `tree`, `echo`, `>`, `open`, `-r`
+**Commands/Concepts**: `tree`, `echo`, `>`, `open`
 
 ---
 
@@ -28,7 +28,7 @@
 - List all the files in the backup directory in the terminal. 
 - Print a message that the backup is complete, along with the date.
 
-**Commands/Concepts**: `cp`, `mkdir`, `ls`, `echo`, `date` 
+**Commands/Concepts**: `cp`, `mkdir`, `ls`, `echo`, `date`, `-r`
 
 ---
 
