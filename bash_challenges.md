@@ -12,7 +12,7 @@
 
 ### Challenge 1.1 - Tree to File
 
-**Objective**:  
+**Objectives**:  
 - Create an executable script that outputs the `tree` structure of a directory and its subdirectories into a new text file. 
 - Display a message when the script is complete and automatically open the new file.
 
@@ -22,7 +22,7 @@
 
 ### Challenge 1.2 - Backup Script  
 
-**Objective**:  
+**Objectives**:  
 - Create a backup script that copies all contents from one directory to a backup folder. 
 - List all the files in the backup directory in the terminal. 
 - Print a message that the backup is complete, along with the date.
@@ -35,7 +35,7 @@
 
 ### Challenge 2.1 - CPU Resource Flood
 
-**Objective**: Use resource exhaustion to simulate:
+**Objectives**: Use resource exhaustion to simulate:
 1. A DoS attack
 2. A countermeasure
 
@@ -53,7 +53,7 @@
 
 ### Challenge 2.2 - File Permissions
 
-**Objective**: Demonstrate how malware might alter file permissions to gain unauthorized access.
+**Objectives**: Demonstrate how malware might alter file permissions to gain unauthorized access.
 
 **Part I**:  
 - Create an executable file using `touch`.
@@ -69,7 +69,7 @@
 
 ### Challenge 2.3 - Malware Executing System Commands (Privilege Escalation)
 
-**Objective**: Learn how attackers use privilege escalation through malicious scripts.
+**Objectives**: Learn how attackers use privilege escalation through malicious scripts.
 
 **Part I**:  
 - Create a script that executes a system command (like `ls` or `cat`) but is disguised as an innocuous file.
