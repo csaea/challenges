@@ -1,7 +1,6 @@
 # Bash/Linux Scripting Challenges 
 
-> **IMPORTANT**: Run these challenges in a virtual machine! Otherwise you may ruin your own system.
-> [https://apps.cyber.org/](https://apps.cyber.org/)
+> **IMPORTANT**: Run these challenges in our [virtual machine](https://apps.cyber.org/)! Otherwise you may ruin your own system.
 
 ## Table of Contents
 - [System Challenges](#System-Challenges)
