@@ -30,8 +30,6 @@
 
 **Commands/Concepts**: `cp`, `mkdir`, `ls`, `echo`, `date` 
 
-Here are a few beginner-friendly Bash/Linux scripting challenges:
-
 ---
 
 ### Challenge 1.3 - Sort and Save
@@ -75,6 +73,9 @@ Here are a few beginner-friendly Bash/Linux scripting challenges:
 
 **Commands/Concepts**: `df`, `grep`, `awk`, `echo`, `if`
 
+---
+---
+---
 ---
 ---
 ---
