@@ -1,5 +1,7 @@
 # Bash/Linux Scripting Challenges 
 
+The following challenges will test not only knowledge of Bash, but will also test your research skills. Look up unfamiliar commands, or solutions to unfamliar problems, online. There is always lots of documentation and solutions to similar problems elsewhere. You just have to know how to look! You can also look up info about a command with the `man` (manual) command. 
+
 > **IMPORTANT**: Run these challenges in a virtual machine!
 
 ## Table of Contents
@@ -24,22 +26,22 @@
 ### Challenge 1.2 - Backup Script  
 
 **Objectives**:  
-- Create a backup script that copies all contents from one directory to a new, backup directory. 
+- Create a script that copies all contents from one directory to a new, backup directory. 
 - List all the files in the backup directory in the terminal. 
 - Print a message that the backup is complete, along with the date.
 
-**Commands/Concepts**: `cp`, `mkdir`, `ls`, `echo`, `date`, `-r`
+**Commands/Concepts**: `cp`, `mkdir`, `ls`, `echo`, `date`, `-r`, `*`
 
 ---
 
 ### Challenge 1.3 - Sort and Save
 
 **Objectives**:  
-- Create a script that sorts the contents of a text file alphabetically and saves the result to a new file.
-- The script should prompt the user for the file name to sort.
+- Setup: In the CLI, create a text file with a list of random words. Each word should be on a new line. 
+- Create a script that sorts the contents of the text file alphabetically and saves the result to a new file.
 - Print a message indicating that the sorting is complete.
 
-**Commands/Concepts**: `sort`, `echo`, `read`, `>`  
+**Commands/Concepts**: `/n`, `touch`, `sort`, `echo`, `>`  
 
 ---
 
