@@ -8,7 +8,7 @@
 
 ## Challenge 1.2: Decimal to Binary Algorithm 
 
-Write a Python algorithm that converts a decinmal number its binary representation.
+Write a Python algorithm that converts a decimal number its binary representation.
 
 ## Three possible solutions to the Binary Algorithm 
 
