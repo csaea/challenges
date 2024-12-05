@@ -1,4 +1,16 @@
-Binary Algorithm 
+# Binary and Hexadecimal Challenges and Explanations: 
+
+## Challenge 1.1: Binary Translation
+
+1. Think of a five-letter word and encode it in binary. You may only use an ASCII table. 
+
+2. Give it to a partner and have them decode it into plaintext. 
+
+## Challenge 1.2: Decimal to Binary Algorithm 
+
+Write a Python algorithm that converts a decinmal number its binary representation.
+
+## Three possible solutions to the Binary Algorithm 
 
 ### Pseudocode:
 
