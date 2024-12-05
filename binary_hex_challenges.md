@@ -40,15 +40,15 @@ def Iterative_solution(num):
 
 Iterative_solution(13)
 
-#recursive
-#print("\nRecursive solution:")
-#def Recursive_solution(num):
+# Recursive Solution
+print("\nRecursive solution:")
+def Recursive_solution(num):
     
 
-#    if num >= 1: 
-#        Recursive_solution(num // 2)
+    if num >= 1: 
+        Recursive_solution(num // 2)
         
-#        print (num % 2)
+        print (num % 2)
 
-#Recursive_solution(13)
+Recursive_solution(13)
 ```
