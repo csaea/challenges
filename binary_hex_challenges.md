@@ -43,7 +43,6 @@ Iterative_solution(13)
 # Recursive Solution
 print("\nRecursive solution:")
 def Recursive_solution(num):
-    
 
     if num >= 1: 
         Recursive_solution(num // 2)
