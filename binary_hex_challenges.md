@@ -9,10 +9,10 @@ Binary Algorithm
 
 ### Example of Execution:
 For `num = 13`:
-- 13 ÷ 2 → remainder 1, new num = 6 (binary = '1')
-- 6 ÷ 2 → remainder 0, new num = 3 (binary = '01')
-- 3 ÷ 2 → remainder 1, new num = 1 (binary = '101')
-- 1 ÷ 2 → remainder 1, new num = 0 (binary = '1101')
+- 13 ÷ 2 → 6, remainder 1 (binary = '1')
+- 6 ÷ 2 → 3, remainder 0, (binary = '01')
+- 3 ÷ 2 → 1, remainder 1, (binary = '101')
+- 1 ÷ 2 → 0, remainder 1, (binary = '1101')
 
 Final output: `'1101'`.
 
