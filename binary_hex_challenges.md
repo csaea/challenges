@@ -2,7 +2,7 @@
 
 ## Challenge 1.1: Binary Translation
 
-1. Think of a five-letter word and encode it in binary. You may only use an ASCII table. 
+1. Think of a 7-10 letter word and encode it in binary. You may only use an ASCII table. 
 
 2. Give it to a partner and have them decode it into plaintext. 
 
